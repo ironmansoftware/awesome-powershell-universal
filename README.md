@@ -14,6 +14,7 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 * [Education](#education)
 * [Examples](#examples)
 * [Repositories](#repositories)
+* [Windows](#windows)
 
 ## Active Directory 
 
@@ -52,3 +53,7 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 ## Support
 
 - [Official Support](https://support.ironmansoftware.com/) - Paid support portal
+
+## Windows 
+
+- [Windows System Information Template](https://ironmansoftware.com/powershell-universal/templates/template/Windows%20System%20Information) - Dashboard that lists processes, services, event log, network information, temperatures, uptime, operating system information and more.
