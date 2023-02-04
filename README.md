@@ -8,11 +8,16 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 
 ## Contents
 
+* [Active Directory](#active-directory)
 * [Community](#community)
 * [Downloads](#downloads)
 * [Education](#education)
 * [Examples](#examples)
 * [Repositories](#repositories)
+
+## Active Directory 
+
+- [Active Directory Dashboard Template](https://ironmansoftware.com/powershell-universal/templates/template/Active%20Directory%20Dashboard)
 
 ## Community 
 
