@@ -37,6 +37,7 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 
 - [Documentation](https://docs.powershelluniversal.com/) - Official PowerShell Universal Documentation
 - [Training Course](https://ironmansoftware.com/training/powershell-universal) - PowerShell Universal video training course
+- [YouTube Playlist](https://www.youtube.com/watch?v=LaZA90UzLPw&list=PL-0mHH7DlSiQ5q66FXHerWv2vOOodD2U9) - Playlist of PSU videos.
 
 ## Examples
 
