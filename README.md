@@ -2,6 +2,8 @@
 
 A curated list of awesome [PowerShell Universal](https://docs.powershelluniversal.com) resources.
 
+PowerShell Universal is a single pane of glass for managing and delegating access to your automation environment.
+
 _Have a resource? Feel free to open an issue or submit a pull request_
 
 ## Contents
