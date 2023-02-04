@@ -9,7 +9,7 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 * [Community](#community)
 * [Downloads](#downloads)
 * [Education](#education)
-* [Examples)(#examples)
+* [Examples](#examples)
 * [Repositories](#repositories)
 
 ## Community 
