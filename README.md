@@ -30,7 +30,7 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 - [Previous Versions](https://ironmansoftware.com/release/powershell-universal) - All previous versions of PowerShell Universal
 - [Nightly Builds](https://ironmansoftware.com/release/powershell-universal-nightly) - Nightly builds of PowerShell Universal
 - [Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=ironmansoftware.powershell-universal) - VS Code extension of PowerShell Universal
-- [Docker Hub](https://hub.docker.com/r/ironmansoftware/universal)
+- [Docker Hub](https://hub.docker.com/r/ironmansoftware/universal) - Official Docker images for PowerShell Universal. 
 
 ## Education
 
