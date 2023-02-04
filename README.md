@@ -57,3 +57,4 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 ## Windows 
 
 - [Windows System Information Template](https://ironmansoftware.com/powershell-universal/templates/template/Windows%20System%20Information) - Dashboard that lists processes, services, event log, network information, temperatures, uptime, operating system information and more.
+- [Service API Template](https://ironmansoftware.com/powershell-universal/templates/template/Service%20API) - API Endpoints to manage Windows services.
