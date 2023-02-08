@@ -24,6 +24,7 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 ## Blogs
 
 - [Ironman Software Blog](https://blog.ironmansoftware.com/tags/powershell-universal/) - Official IMS blog. 
+- [Adam Bacon - My Personal PowerShell Blog](https://adam-bacon.netlify.app/) - Adam is the author of many Universal Dashboard components.
 - [Upping the Automation Ante with PowerShell Universal](https://adamtheautomator.com/powershell-universal/) - Overview of PowerShell Universal on Adam the Automator. 
 
 ## Community 
