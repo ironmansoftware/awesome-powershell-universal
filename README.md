@@ -51,6 +51,7 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 - [Customer Examples](https://forums.ironmansoftware.com/t/real-world-examples) - Forum post of customer examples
 - [Demo](https://demo.powershelluniversal.com/) - Live demo of PowerShell Universal
 - [Templates](https://ironmansoftware.com/powershell-universal/templates) - Templates built for PowerShell Universal
+- [Template for Templates](https://github.com/ironmansoftware/powershell-universal-template) - A GitHub template repository for building templates.
 
 ## Repositories
 
