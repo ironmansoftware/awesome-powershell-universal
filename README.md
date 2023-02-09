@@ -15,6 +15,8 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 * [Education](#education)
 * [Examples](#examples)
 * [Repositories](#repositories)
+* [Support](#support)
+* [Utilities](#utilities)
 * [Windows](#windows)
 
 ## Active Directory 
@@ -62,6 +64,10 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 ## Support
 
 - [Official Support](https://support.ironmansoftware.com/) - Paid support portal
+
+## Utilities 
+
+- [Dashboard Utilities](https://github.com/ironmansoftware/dashboard-utils) - PowerShell module of dashboard utilities.
 
 ## Windows 
 
