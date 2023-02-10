@@ -61,6 +61,10 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 - [Issues](https://github.com/ironmansoftware/issues) - Bugs and feature requests for PowerShell Universal
 - [VS Code Extension](https://github.com/ironmansoftware/universal-code) - Source code for the PSU VS Code extension. 
 
+## Staff Tools
+
+- [Read-IronmanSoftwareLicenseFile](https://github.com/DataTraveler1/Read-IronmanSoftwareLicenseFile) - Renders an Ironman Software license file into human readable format
+
 ## Support
 
 - [Official Support](https://support.ironmansoftware.com/) - Paid support portal
