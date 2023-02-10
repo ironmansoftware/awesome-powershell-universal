@@ -62,10 +62,6 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 - [VS Code Extension](https://github.com/ironmansoftware/universal-code) - Source code for the PSU VS Code extension. 
 - [PSU Themes](https://github.com/potatoqualitee/psu-themes) - Themes for PowerShell Universal
 
-## Staff Tools
-
-- [Read-IronmanSoftwareLicenseFile](https://github.com/DataTraveler1/Read-IronmanSoftwareLicenseFile) - Renders an Ironman Software license file into human readable format
-
 ## Support
 
 - [Official Support](https://support.ironmansoftware.com/) - Paid support portal
@@ -73,6 +69,7 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 ## Utilities 
 
 - [Dashboard Utilities](https://github.com/ironmansoftware/dashboard-utils) - PowerShell module of dashboard utilities.
+- [Read-IronmanSoftwareLicenseFile](https://github.com/DataTraveler1/Read-IronmanSoftwareLicenseFile) - Renders an Ironman Software license file into human readable format
 
 ## Windows 
 
