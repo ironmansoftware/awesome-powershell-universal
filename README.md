@@ -16,7 +16,7 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 * [Examples](#examples)
 * [Repositories](#repositories)
 * [Support](#support)
-- [Technology Stack](#technology-stack)
+* [Technology Stack](#technology-stack)
 * [Utilities](#utilities)
 * [Windows](#windows)
 
