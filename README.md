@@ -16,6 +16,7 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 * [Examples](#examples)
 * [Repositories](#repositories)
 * [Support](#support)
+- [Technology Stack](#technology-stack)
 * [Utilities](#utilities)
 * [Windows](#windows)
 
@@ -65,6 +66,17 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 ## Support
 
 - [Official Support](https://support.ironmansoftware.com/) - Paid support portal
+
+## Technology Stack
+
+- [Ant Design](https://4x.ant.design/) - Admin Console UI Library
+- [Ant Design Charts](https://charts.ant.design/en) - Pages Charts Library
+- [dotnet](https://dotnet.microsoft.com/en-us/) - Backend Server Platform
+- [FontAwesome](https://fontawesome.com/) - Icons for Dashboards
+- [Kestrel](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-7.0) - Web Server
+- [MUI](https://mui.com/material-ui/getting-started/overview/) - Dashboard UI library
+- [PowerShell SDK](https://github.com/powershell/powershell) - PowerShell Hosting and Cmdlets
+
 
 ## Utilities 
 
