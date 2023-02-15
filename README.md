@@ -74,6 +74,7 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 - [dotnet](https://dotnet.microsoft.com/en-us/) - Backend Server Platform
 - [FontAwesome](https://fontawesome.com/) - Icons for Dashboards
 - [Kestrel](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-7.0) - Web Server
+- [libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git sync library
 - [LiteDB](https://www.litedb.org/) - Single-file database
 - [MUI](https://mui.com/material-ui/getting-started/overview/) - Dashboard UI library
 - [Nivo](https://nivo.rocks/) - Dashboard Chart Library
