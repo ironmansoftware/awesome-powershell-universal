@@ -75,6 +75,7 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 - [FontAwesome](https://fontawesome.com/) - Icons for Dashboards
 - [Kestrel](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-7.0) - Web Server
 - [MUI](https://mui.com/material-ui/getting-started/overview/) - Dashboard UI library
+- [Nivo](https://nivo.rocks/) - Dashboard Chart Library
 - [PowerShell SDK](https://github.com/powershell/powershell) - PowerShell Hosting and Cmdlets
 
 
