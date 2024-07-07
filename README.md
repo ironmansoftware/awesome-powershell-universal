@@ -63,6 +63,7 @@ _Have a resource? Feel free to open an issue or submit a pull request_
 - [Issues](https://github.com/ironmansoftware/issues) - Bugs and feature requests for PowerShell Universal
 - [VS Code Extension](https://github.com/ironmansoftware/universal-code) - Source code for the PSU VS Code extension. 
 - [PSU Themes](https://github.com/potatoqualitee/psu-themes) - Themes for PowerShell Universal
+- [Scripts](https://github.com/ironmansoftware/script) - Module extensions for PowerShell Universal 
 
 ## Support
 
